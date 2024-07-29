@@ -1,0 +1,4 @@
+/Users/khangnguyen/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  /Users/khangnguyen/biznis/Tai/vsl/OpenCV-android-sdk/sdk/.cxx/Debug/1o3w24z6/x86 \
+  opencv_jni_shared

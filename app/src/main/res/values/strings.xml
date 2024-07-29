@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VietSignLang</string>
+    <string name="server_url" translatable="false">wss://minhtai048--vsl-cloud-endpoint.modal.run</string>
+</resources>
